@@ -1,0 +1,60 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+  /*  background-image: url(https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8Zml0bmVzc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+    background-color: #6155a6;
+    background-size: 100vh;
+}
+
+.container
+{
+    position: relative;
+    width: 400px;
+    height: 500px;
+    margin: 75px auto;
+    background: #a685e2;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgb(1, 1, 44);
+}
+
+input[type=text] {
+
+    border: none;
+    width: 115%;
+    border-bottom: 2px solid rgb(2, 57, 96);
+    background: rgb(50,143,165,0);
+    /*color: #fff;*/
+}
+
+input[type=password] {
+
+    border: none;
+    width: 115%;
+    border-bottom: 2px solid rgb(2, 57, 96);
+    background: rgb(50,143,165,0);
+    color: #fff;
+}
+
+input[type=submit]
+{
+    background-color: #6155a6;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    padding: 16px 32px;
+    left: 120px;
+    text-decoration: none;
+    width: 115%;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.uname
+  {
+      color: white;
+      padding: 10px;
+  }
