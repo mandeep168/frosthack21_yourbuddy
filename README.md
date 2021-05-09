@@ -2,14 +2,13 @@
 
 
 Instructions to run on local computer
+1. To run this file you need to make log folder in htdocs which is inside xampp.
+2. create a database with name 'registrations'.
+3. create a table inside 'registrations' database with name 'users'.
+4. run the index.html file in local host, through which we will go to registeration or login.
+5. After that you can go to About Us or profile or take challenges and earn poin.
+6. After every thing you can logout.
 
-1. create a database with name 'registrations'.
-2. create a table inside 'registrations' database with name 'users'.
-3. Open index.html file
-4. click sign up button
-5. fill the form to register.
-6. Then login with username and password.
-7. This will take you to the home page containing challenges.
 
 
 Problem our project is solving: 
