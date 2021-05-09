@@ -3,8 +3,8 @@
 
 Instructions to run on local computer
 
-create a database with name 'registrations'.
-create a table inside 'registrations' database with name 'users'.
+1. create a database with name 'registrations'.
+2. create a table inside 'registrations' database with name 'users'.
 Open index.html file
 click sign up button
 fill the form to register.
