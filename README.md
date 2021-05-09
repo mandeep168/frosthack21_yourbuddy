@@ -5,11 +5,11 @@ Instructions to run on local computer
 
 1. create a database with name 'registrations'.
 2. create a table inside 'registrations' database with name 'users'.
-Open index.html file
-click sign up button
-fill the form to register.
-Then login with username and password.
-This will take you to the home page containing challenges.
+3. Open index.html file
+4. click sign up button
+5. fill the form to register.
+6. Then login with username and password.
+7. This will take you to the home page containing challenges.
 
 
 Problem our project is solving: 
