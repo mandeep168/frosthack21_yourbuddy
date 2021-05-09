@@ -26,8 +26,8 @@ npx create-react-app chatbot
 cd chatbot
 yarn add react-chatbot-kit
 
-and now open the zip file src and replace it with the src in the file above. 
-And also file public with our public zip folder 
+and now replace the src folder in the file above with our given folder. 
+And also file public with our given public folder 
 
 //now run this command on terminal 
 yarn start
