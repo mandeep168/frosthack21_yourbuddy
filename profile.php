@@ -50,10 +50,10 @@ while($row = mysqli_fetch_array($result)){
     </label>
         <label class="logo">YourBuddy</label>
         <ul>
-            <li><a class="active" href="home.html">Home</a></li>
-            <li><a href="aboutus.html">AboutUs</a></li>
-            <li><a href="profile.html">Profile</a></li>
-            <li><a href=#>Logout</a></li>
+        <li><a class="active" href="http://localhost/log/home.php">Home</a></li>
+            <li><a href="http://localhost/log/aboutus.html">AboutUs</a></li>
+            <li><a href="http://localhost/log/profile.php">Profile</a></li>
+            <li><a href="http://localhost/log/logout.php">Logout</a></li>
         </ul>
     </nav>
        <h1 class="head">Profile Page</h1>
