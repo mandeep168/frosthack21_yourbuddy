@@ -288,7 +288,7 @@ echo "<h4>Today's Point: <span id='thisone'> '$points' </span></h4>";
         <div class="thefront"><h1><br>Day 5</h1></div>
 
         <div class="theback"><h4>Make a list of things you love about your life.</h4>
-        <button class="btn" id="5" onclick="five()" type="button"><a id=GFG href="home.html">Done</a></button>
+        <button class="btn" id="5" onclick="five()" type="button"><a id=GFG href="points.php">Done</a></button>
         </div>
 
       </div>
