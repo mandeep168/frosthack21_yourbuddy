@@ -1,5 +1,5 @@
 
-#To run this file, 
+# To run this file, 
 
 add log file in htdocs (in xampp)
 and then run the file locally on 
@@ -19,7 +19,7 @@ And for the chatbot to work, do the following:
 
 In this we used react-chatbot-kit 
 
-#Initial setup
+# Initial setup
 // Run these commands from your command line
 npx create-react-app chatbot
 cd chatbot
