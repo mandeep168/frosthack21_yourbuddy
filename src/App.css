@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+
+.App{
+  background-color: transparent;
+  color: white;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+body {
+color: white;
+}
+.h1{
+font-size: 70px;
+  color: #fff;
+  text-align: center;
+}
+#GFG { 
+  text-decoration: none; 
+}
+p{
+  font-size:40px ;
+  text-align: center;
+
+}
+
+#show {
+  background-image: url('195.png');
+  background-color: transparent;
+  background-size: cover;
+  width: 155px;
+  height: 135px;
+  position: absolute;
+  bottom: 40%;
+  right: 45%;
+  border: none;
+}
