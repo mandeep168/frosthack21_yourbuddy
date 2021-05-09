@@ -1,17 +1,18 @@
 
 # To run this file, 
 
-add log file in htdocs (in xampp)
-and then run the file locally on 
+Add log file in htdocs (in xampp)
+Import the sql file in phpmyadmin and all username, password will be stored there. 
+
+And then run the file locally on 
 "http://localhost/log/index.html"
 
-and also make database name "registrations" in phpmyadmin 
-and then import the sql file 
-
+And Sign up 
 After that you can enter name, password, age and everything will be stored in phpmyadmin database. 
 
 and after successfully registering, go back and go to login page. 
-Enter username and password 
+
+//Enter username and password 
 
 And after that you can see the given courses and also a small chatbot on the right corner. 
 
